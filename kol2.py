@@ -46,7 +46,12 @@ class Classroom:
 		course_name = input("What is the course name? (please type it surrounded by quotes)\n")
 		self.courses_list.append(course_name)
 	
-	def add_student(self,student):
+	def add_student(self):
+		print "Student's last name? (surround in quotes)"
+		last_name = input()
+		print "Student's first name? (surround in quotes)"
+		first_name = input()
+		student = Student(last_name,first_name)
 		self.student_list.append(student)
 	
 	def finalize_students(self):
