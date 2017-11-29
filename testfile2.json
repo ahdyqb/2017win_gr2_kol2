@@ -1,0 +1,439 @@
+{
+    "Argan Zander": {
+        "inertia drifting": {
+            "attends": [
+                1,
+                1,
+                0,
+                1,
+                1,
+                0,
+                0
+            ],
+            "grades": [
+                3.0,
+                4.0,
+                4.5
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "grades": [
+                5.0,
+                4.5,
+                4.0
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            "grades": [
+                3.5,
+                3.5,
+                3.0
+            ]
+        }
+    },
+    "El Kal": {
+        "inertia drifting": {
+            "attends": [
+                1,
+                1,
+                0,
+                1,
+                1,
+                0,
+                0,
+                1
+            ],
+            "grades": [
+                3.0,
+                3.0,
+                4.0
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "grades": [
+                4.0,
+                4.0,
+                5.0
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ],
+            "grades": [
+                3.5,
+                3.5,
+                4.5
+            ]
+        }
+    },
+    "Peregrinus Falco": {
+        "inertia drifting": {
+            "attends": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0
+            ],
+            "grades": [
+                4.0,
+                3.0,
+                4.5
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0
+            ],
+            "grades": [
+                5.0,
+                5.0,
+                4.5
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0,
+                1
+            ],
+            "grades": [
+                5.0,
+                5.0,
+                5.0
+            ]
+        }
+    },
+    "Rollin Theyseme": {
+        "inertia drifting": {
+            "attends": [
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "grades": [
+                3.5,
+                4.5,
+                4.5
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1
+            ],
+            "grades": [
+                3.0,
+                5.0,
+                5.0
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "grades": [
+                5.0,
+                4.5,
+                4.0
+            ]
+        }
+    },
+    "Spain Rainin": {
+        "inertia drifting": {
+            "attends": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ],
+            "grades": [
+                3.0,
+                3.0,
+                3.5
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "grades": [
+                2.0,
+                3.0,
+                3.0
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1
+            ],
+            "grades": [
+                2.0,
+                3.5,
+                3.5
+            ]
+        }
+    },
+    "Stone Steven": {
+        "inertia drifting": {
+            "attends": [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ],
+            "grades": [
+                4.0,
+                4.0,
+                4.5
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                0,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0
+            ],
+            "grades": [
+                5.0,
+                5.0,
+                3.0
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0
+            ],
+            "grades": [
+                4.0,
+                4.0,
+                4.5
+            ]
+        }
+    },
+    "White Walter": {
+        "inertia drifting": {
+            "attends": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                0
+            ],
+            "grades": [
+                3.5,
+                4.0,
+                4.0
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                1,
+                0,
+                0,
+                1,
+                1,
+                0,
+                1,
+                1
+            ],
+            "grades": [
+                4.0,
+                4.5,
+                3.0
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ],
+            "grades": [
+                5.0,
+                5.0,
+                4.5
+            ]
+        }
+    },
+    "Wilson Wade": {
+        "inertia drifting": {
+            "attends": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "grades": [
+                5.0,
+                4.5,
+                4.5
+            ]
+        },
+        "pastamancy": {
+            "attends": [
+                1,
+                1,
+                0,
+                1,
+                1,
+                0,
+                1,
+                1
+            ],
+            "grades": [
+                4.5,
+                4.0,
+                4.5
+            ]
+        },
+        "quantum bogodynamics": {
+            "attends": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0
+            ],
+            "grades": [
+                3.0,
+                3.5,
+                4.5
+            ]
+        }
+    },
+    "_courselist": [
+        "quantum bogodynamics",
+        "pastamancy",
+        "inertia drifting"
+    ],
+    "_studentlist": [
+        "Argan Zander",
+        "El Kal",
+        "Peregrinus Falco",
+        "Rollin Theyseme",
+        "Spain Rainin",
+        "Stone Steven",
+        "White Walter",
+        "Wilson Wade"
+    ]
+}
